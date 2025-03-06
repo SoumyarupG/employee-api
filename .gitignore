@@ -1,0 +1,10 @@
+/target/
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+/.vscode/
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
